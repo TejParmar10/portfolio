@@ -1,0 +1,311 @@
+{
+  "about": {
+    "about": "Hi, I'm Tej Parmar, a passionate tech enthusiast and final-year B.Tech student with a knack for solving real-world problems using cutting-edge technologies. With experience in Flutter development, Full Stack Development, and Generative AI, I specialize in creating scalable and impactful applications.  I am driven by the pursuit of innovative solutions to real-world challenges. I am actively working on several projects involving Generative AI and have previously explored its potential to transform industries through innovative applications.",
+    "aboutImage": "https://drive.google.com/uc?export=view&id=198PoqmWs_tZQ3ICzP-jEUHPR_RbxMXJl",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "callUrl": "",
+    "resumeUrl": "",
+    "title": "Software Engineer"
+  },
+  "educations": [
+    {
+      "degree": "ICSE",
+      "duration": "2010 - 2019",
+      "institute": "Thakur International School",
+      "percentage": "87.40%"
+    },
+    {
+      "GPA": "9.03",
+      "degree": "Diploma in Information Technology",
+      "duration": "2019 - 2022",
+      "institute": "Shri Bhagubhai Mafatlal Polytechnic"
+    },
+    {
+      "GPA": "8.7",
+      "degree": "Bachelor of Technology in Artificial Intelligence and Machie Learning",
+      "duration": "2022 - 2025",
+      "institute": "Thakur College of Engineering and Technology"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Hungry Brain – Mumbai, India",
+      "desc": [
+        "Developed a Flutter-based mobile application enabling new-born families to register for developmental programs, incorporating Firebase for real-time data management and user authentication.",
+        "Implemented features to enhance memory development, problem-solving, and associative building capabilities in infants.",
+        "Leveraged feedback from user testing to refine app functionality and user experience.",
+        "Skills: Flutter · Firebase · User Authentication · Mobile App Development · UI/UX Design"
+      ],
+      "duration": "June 2024 – September 2024",
+      "position": "App Developer Intern"
+    },
+    {
+      "company": "Knowles Corporation – Itasca, USA",
+      "desc": [
+        "Built LangChain-based AI agents, reducing task execution time by 40% through automated data retrieval and response generation.",
+        "Orchestrated retrieval-augmented generation (RAG) model refinements utilizing Apache Superset, PostgreSQL, and Hive, accelerating AI-driven analytics throughput by 30% and reducing data retrieval latency by 15 milliseconds.",
+        "Implemented LLM-powered API services, enabling contextual AI responses and increasing model accuracy by 20%",
+        "Optimized Few-Shot and Zero-Shot Prompting to enhance AI reasoning and reduce computation costs"
+      ],
+      "duration": "September 2024 – December 2024",
+      "position": "Generative AI  Intern"
+    },
+    {
+      "company": "Tata Consultancy Services – Mumbai, India",
+      "desc": [
+        "Developed an AI-powered Sustainability Green Banking Assessment system using Azure Document Intelligence, Azure SQL, and Azure OpenAI, improving data extraction efficiency by 35%.",
+        "Implemented and optimized a FastAPI backend, reducing API response time by 25% and ensuring secure, real-time data processing with Azure Functions.",
+        "Integrated Azure AI models for automated sustainability scoring, streamlining compliance checks for financial institutions.",
+        "Built and deployed an AI agent using Copilot Studio, creating the TCS IT Helpdesk Agent to automate support workflows and enhance user assistance through intelligent response handling."
+      ],
+      "duration": "June 2025 – May 2025",
+      "position": "Generative AI  Intern"
+    }
+
+],
+
+"main": {
+  "heroImage": "https://drive.google.com/uc?export=view&id=198PoqmWs_tZQ3ICzP-jEUHPR_RbxMXJl",
+  "name": "Tej Parmar",
+  "shortDesc": "Software Engineer | Flutter Developer | Full Stack Developer | Generative AI Enthusiast",
+  "techStackImages": [
+    "https://img.icons8.com/color/144/null/flutter.png",
+    "https://img.icons8.com/color/144/null/mysql-logo.png",
+    "https://img.icons8.com/material-outlined/96/null/github.png",
+    "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"
+  ],
+  "titles": [
+    "Frontend Development",
+    "Backend Development",
+    "App Development",
+    "Generative AI Enthusiast"
+  ]
+},
+"projects": [
+  {
+    "category": "Flutter",
+    "desc": [
+      "Developed a platform connecting blue-collar workers with customers for household services, featuring worker job management and streamlined hiring.",
+      "Implemented Aadhar Verification using Haar-Cascade and integrated Gemini Pro Vision for service recommendations."
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1nxiYh0ShYvLoZMIA5dIeFwewU1tjh3N9",
+    "links": {
+      "code": "https://github.com/DeepParekh03/laborlink",
+      "video": "",
+      "visit": ""
+    },
+    "name": "Labor Link: AI-Powered Hiring & Verification",
+    "techstack": "Flutter, Flask, Firebase, Gemini, LangChain"
+  },
+  {
+    "category": "Gen-AI",
+    "desc": [
+      "Developed a  AI-powered RAG.All you need to do is upload your subject PDFs, and EduQuery will answer any questions you have based on the content..",
+      "AI-powered tool built using Phi-1.5 model and streamlit."
+    ],
+    "image": "https://drive.google.com/file/d/1f8MsnyrVGlwVo53VShs_ZuWP7TFfFiuD/view?usp=sharing",
+    "links": {
+      "code": "https://lnkd.in/d53HMmns",
+      "video": "",
+      "visit": ""
+    },
+    "name": "EduQuery - AI-Powered PDF Question Answering",
+    "techstack": "Sttreamlit, Phi-1.5"
+  },
+  {
+    "category": "AI & Finance",
+    "desc": [
+      "Developed an AI-powered financial advisory prototype providing personalized, data-driven financial advice by analyzing customer financial data and market trends.",
+      "Implemented an AI-powered chatbot for personalized financial interactions, real-time stock insights, credit monitoring, and expense tracking.",
+      "Integrated AES encryption, multi-factor authentication, and continuous security audits to ensure data integrity, compliance, and user trust.",
+      "Scalable architecture using cloud-based modular development to manage increasing user demands efficiently."
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1EvpXCiupHD1IYeLALdhscbakHwJV3jrF",
+    "links": {
+      "code": "https://github.com/DeepParekh03/BoB-Hacks",
+      "video": "https://drive.google.com/file/d/1NNC1aTMbc2iRcpAXPhNco1BLj0L6KmdZ/view?usp=sharing",
+      "visit": ""
+    },
+    "name": "Revolutionising Financial Advisory Services with Generative AI",
+    "techstack": "Flutter, Next.Js, Flask, Gemini Vision Model, MongoDB"
+  },
+  {
+    "category": "Legal AI",
+    "desc": [
+      "Developed an AI-powered legal research assistant that enhances legal document processing and understanding using Large Language Models (LLMs).",
+      "Implemented AI-based automatic summarization for legal documents with user-customized summary length and multiple export formats.",
+      "Integrated clause detection and classification, including enforceability prediction and risk analysis for unfavorable clauses.",
+      "Developed AI-driven legal query assistance providing context-specific guidance, legal precedent references, and multilingual support.",
+      "Enabled multilingual legal document translation (English/Hindi) with state-specific law adaptation and consistent legal term translation."
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1ub_e2PLkD7zNZkA1RVwxT8Dx3VbZnOMd",
+    "links": {
+      "code": "https://github.com/DeepParekh03/LawWise",
+      "video": "",
+      "visit": ""
+    },
+    "name": "LawWise: Empowering Legal Insights with LLM",
+    "techstack": "Next.Js, LLMs, AI, LangChain, Flask, ChromaDB"
+  }
+],
+"skills": [
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+    "name": "JavaScript"
+  },
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/color/144/null/react-native.png",
+    "name": "React.js"
+  },
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/color/144/null/flutter.png",
+    "name": "Flutter"
+  },
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000",
+    "name": "Tailwind CSS"
+  },
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/color/144/null/html-5.png",
+    "name": "HTML"
+  },
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/color/144/null/css3.png",
+    "name": "CSS"
+  },
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/color/144/null/nextjs.png",
+    "name": "Next.js"
+  },
+  {
+    "category": "Frontend",
+    "image": "https://img.icons8.com/color/144/null/bootstrap.png",
+    "name": "Bootstrap"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/nodejs.png",
+    "name": "Node.js"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/firebase.png",
+    "name": "Firebase"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000",
+    "name": "Flask"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/spring-logo.png",
+    "name": "Spring Boot"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
+    "name": "MySQL"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/mongodb.png",
+    "name": "MongoDB"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/php.png",
+    "name": "PHP"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/microsoft-sql-server.png",
+    "name": "MS SQL"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/python.png",
+    "name": "Python"
+  },
+  {
+    "category": "Backend",
+    "image": "https://img.icons8.com/color/144/null/graphql.png",
+    "name": "GraphQL"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+    "name": "GitHub"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/color/144/null/docker.png",
+    "name": "Docker"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
+    "name": "AWS"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/color/144/null/figma.png",
+    "name": "Figma"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/?size=100&id=RlIXjuTUrwoX&format=png&color=000000",
+    "name": "REST APIs"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/?size=100&id=kzJWN5jCDzpq&format=png&color=000000",
+    "name": "LLMs"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/?size=100&id=KIcFwp9MNQL5&format=png&color=000000",
+    "name": "Postman"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/color/144/null/kubernetes.png",
+    "name": "Kubernetes"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/color/144/null/jira.png",
+    "name": "JIRA"
+  },
+  {
+    "category": "Tools",
+    "image": "https://img.icons8.com/color/144/null/jenkins.png",
+    "name": "CI/CD"
+  }
+],
+"socials": [
+  {
+    "icon": "FaLinkedin",
+    "link": "https://www.linkedin.com/in/deepparekh03/"
+  },
+  {
+    "icon": "FaGithub",
+    "link": "https://github.com/DeepParekh03"
+  },
+  {
+    "icon": "FaInstagram",
+    "link": "https://www.instagram.com/deep_parekh__"
+  },
+  {
+    "icon": "FaTwitter",
+    "link": "https://x.com/deepparekh92"
+  }
+]
+}
