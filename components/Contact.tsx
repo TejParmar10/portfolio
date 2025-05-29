@@ -25,7 +25,7 @@ const Contact = () => {
         }
 
         setLoading(true);
-        axios.post("/api/mail", {
+        axios.post("/api/contact", {
             name: values.name,
             email: values.email,
             message: values.message,
